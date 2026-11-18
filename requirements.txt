@@ -3,7 +3,7 @@ opencv-python
 omegaconf
 einops
 lpips
-timm==0.9.16
+timm>=0.9.16
 pre-commit
 ipykernel
 pycocotools
